@@ -1,7 +1,7 @@
 # Sarcasm Detector
 
 
-![](https://cutewallpaper.org/24/sarcastic-cliparts/1393122278.jpg)
+![](https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/funny-sarcasm-humor-provocative-sarcastic-gift-muc-designs.jpg)
 
 
 #### -- Project Status: [Completed]
