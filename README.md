@@ -1,7 +1,7 @@
 # Sarcasm Detector
 
 
-![alternative text]([reports/img/pic01.jpg](https://image.emojipng.com/314/11698314.jpg))
+(https://image.emojipng.com/314/11698314.jpg))
 
 
 #### -- Project Status: [Completed]
