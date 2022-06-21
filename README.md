@@ -1,7 +1,7 @@
 # Sarcasm Detector
 
 
-![]([http://url/to/img.png](https://image.emojipng.com/314/11698314.jpg))
+![](https://cutewallpaper.org/24/sarcastic-cliparts/1393122278.jpg)
 
 
 #### -- Project Status: [Completed]
