@@ -41,3 +41,8 @@ Long Short Term Memory Network is an advanced RNN, that allows information to pe
 RNNs remember the previous information and use it for processing the current input. The shortcoming of RNN is, they can not remember Long term dependencies due to vanishing gradient. LSTMs are explicitly designed to avoid long-term dependency problems.
 
 source: https://www.analyticsvidhya.com/blog/2021/03/introduction-to-long-short-term-memory-lstm/
+
+## BERT
+Transformer-based deep learning technique for natural language processing (NLP) pre-training developed by Google on the entire Wikipedia dataset. BERT stands for Bidirectional Encoder Representations from Transformers.
+
+source: https://arxiv.org/pdf/1810.04805.pdf
