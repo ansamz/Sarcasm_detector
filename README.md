@@ -40,9 +40,15 @@ source: https://www.askpython.com/python-modules/gensim-word2vec
 Long Short Term Memory Network is an advanced RNN, that allows information to persist. It is capable of handling the vanishing gradient problem faced by RNN which is also used for persistent memory.
 RNNs remember the previous information and use it for processing the current input. The shortcoming of RNN is, they can not remember Long term dependencies due to vanishing gradient. LSTMs are explicitly designed to avoid long-term dependency problems.
 
-source: https://www.analyticsvidhya.com/blog/2021/03/introduction-to-long-short-term-memory-lstm/
+sources: https://www.analyticsvidhya.com/blog/2021/03/introduction-to-long-short-term-memory-lstm/
 
-## BERT
-Transformer-based deep learning technique for natural language processing (NLP) pre-training developed by Google on the entire Wikipedia dataset. BERT stands for Bidirectional Encoder Representations from Transformers.
+## FastText Embeddings
+An extention of Word2Vec algorithm. FastText embeddings exploit subword information to construct word embeddings. Representations are learnt of character -grams, and words represented as the sum of the -gram vectors. This extends the word2vec type models with subword information. This helps the embeddings understand suffixes and prefixes. Once a word is represented using character -grams, a skipgram model is trained to learn the embeddings.
 
-source: https://arxiv.org/pdf/1810.04805.pdf
+Source: https://paperswithcode.com/method/fasttext
+
+## BERT and DistilBERT
+A small, fast, cheap and light Transformer model based on the BERT architecture. The BERT transformer is a based deep learning technique for natural language processing (NLP) pre-training developed by Google on the entire Wikipedia dataset. BERT stands for Bidirectional Encoder Representations from Transformers.
+
+source: https://arxiv.org/abs/1910.01108 
+        https://arxiv.org/pdf/1810.04805.pdf
